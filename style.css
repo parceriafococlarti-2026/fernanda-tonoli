@@ -1144,6 +1144,12 @@ a:focus-visible {
     background-color 180ms ease;
 }
 
+.whatsapp-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  flex: 0 0 auto;
+}
+
 .js .reveal {
   opacity: 0;
   transform: translateY(1.25rem);
