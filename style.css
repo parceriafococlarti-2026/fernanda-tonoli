@@ -554,7 +554,7 @@ a:focus-visible {
 
 .about-portrait img {
   width: 100%;
-  height: 18rem;
+  height: 24rem;
   object-fit: cover;
   object-position: center 26%;
 }
